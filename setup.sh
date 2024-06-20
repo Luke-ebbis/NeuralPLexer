@@ -1,0 +1,2 @@
+make environment
+make install
